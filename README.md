@@ -1,6 +1,4 @@
-# yonogame.github.io
-
-Privacy Policy
+# Privacy Policy
 
 In this privacy policy, we describe what kind of data we may collect of you in connection with your use of our games, applications, websites and related services and how we may use such data. Below we call these collectively “Services”. By using our Services, you agree to the processing of your data in accordance with this privacy policy.
 
@@ -28,7 +26,7 @@ We are using the following tools to serve advertisements in our services. The us
 
 Admob (Google): https://www.google.com/policies/privacy/
 Unity Ads: https://unity3d.com/legal/privacy-policy
-AppLovin: https://www.applovin.com/privacy/
+
 When you view an advert in our apps, the advertising network receives and processes your unique Identification for Advertising (IDFA). Advertising networks use this to send you advertising. You can reset and/or disable your IDFA at any time by following these instructions:
 
 Resetting Your IDFA
