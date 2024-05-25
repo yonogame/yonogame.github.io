@@ -25,6 +25,7 @@ Advertising networks handle your IDFA in accordance with their respective privac
 We are using the following tools to serve advertisements in our services. The use of data of these advertising services is described in their linked privacy policies.
 
 Admob (Google): https://www.google.com/policies/privacy/
+
 Unity Ads: https://unity3d.com/legal/privacy-policy
 
 When you view an advert in our apps, the advertising network receives and processes your unique Identification for Advertising (IDFA). Advertising networks use this to send you advertising. You can reset and/or disable your IDFA at any time by following these instructions:
